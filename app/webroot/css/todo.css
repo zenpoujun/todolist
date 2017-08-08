@@ -1,0 +1,39 @@
+.message {
+  color: orange;
+}
+
+.error-message {
+  color: red;
+}
+
+h1 {
+  color: rgb(62, 203, 150);
+  text-align: center;
+}
+
+div .taskname1 {
+  color: rgb(127, 193, 33);
+  display: inline-block;
+  font-size: 25px;
+}
+
+
+div .taskname2 {
+  color: rgb(64, 164, 213);
+  display: inline-block;
+  font-size: 40px;
+}
+
+ .titlelink > a {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+div .nosearch {
+  color: rgb(190, 65, 25);
+}
+
+div .notregist {
+  color: rgb(190, 65, 25);
+}
